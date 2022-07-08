@@ -1,9 +1,3 @@
-import { a1 as a2 } from './file-1';
-import { a1 as a3 } from './file-3';
-import { a1 as a4 } from './file-4';
-import { a1 as a5 } from './file-5';
-import { a1 as a6 } from './file-6';
-import { a1 as a7 } from './file-7';
 import { a1 as a8 } from './file-8';
 import { a1 as a9 } from './file-9';
 import { a1 as a10 } from './file-10';
@@ -199,12 +193,6 @@ import { a1 as a199 } from './file-199';
 
 export const a1: number =
     1 +
-    a2 +
-    a3 +
-    a4 +
-    a5 +
-    a6 +
-    a7 +
     a8 +
     a9 +
     a10 +
